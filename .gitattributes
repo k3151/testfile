@@ -1,2 +1,0 @@
-testfile filter=lfs diff=lfs merge=lfs -text
-1G[[:space:]]testfile filter=lfs diff=lfs merge=lfs -text
